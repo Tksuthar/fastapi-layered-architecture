@@ -1,0 +1,5 @@
+{
+    "SqlServerConnectionString":"Driver={ODBC Driver 17 for SQL Server};Server=localhost;Database=react_app;Trusted_Connection=yes;uid=sa;pwd=aspartame",
+    "SqlLiteConnectionString":"sqlite:///./sql_app.db",
+    "MySqlConnectionString":"mysql+pymysql://2D2pPrXjZf:jKOaq3kh1H@remotemysql.com:3306/2D2pPrXjZf"
+}
