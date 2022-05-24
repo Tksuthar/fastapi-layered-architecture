@@ -23,3 +23,5 @@ app.include_router(
 def redirect_root_to_docs():
     """Redirects / to /docs"""
     return RedirectResponse(url="/docs")
+
+# addded this comment here
